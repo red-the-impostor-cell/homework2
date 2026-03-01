@@ -12,7 +12,7 @@ body {
 
 .header {
   height: 100vh;
-  background-image: url(images/13.png);
+  background-image: url(./images/13.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -146,3 +146,4 @@ body {
   font-size: 40px;
   color: white;
 }
+
